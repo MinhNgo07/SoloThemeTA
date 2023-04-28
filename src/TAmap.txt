@@ -1,0 +1,5 @@
+GruOffice	Hallway
+	Bedroom
+	Hallway	LivingRoom
+Lab	Hallway
+	SecretDoor
